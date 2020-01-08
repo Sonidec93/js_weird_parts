@@ -1,0 +1,15 @@
+{
+  "name": "js-weird-parts",
+  "version": "1.0.0",
+  "description": "Learning js weird parts",
+  "main": "app.js",
+  "scripts": {
+    "start":"lite-server -c config/bs-config.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukul Kumra",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
